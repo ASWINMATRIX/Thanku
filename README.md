@@ -42,7 +42,10 @@
     <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
 
   </a>
-</p>
+</p>151193-graffiti-owl-wallpaper.jpg
+
+
+
 
 ```
 Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
